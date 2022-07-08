@@ -109,6 +109,10 @@ Put path to the NDK in `ndk.dir` property of `local.properties` file, eg.:
 ```properties
 ndk.dir=/home/skyline/opt/android-sdk/ndk/25.0.8221429
 ```
+On Windows:
+```properties
+ndk.dir=C\:\\Users\\skyline\\AppData\\Local\\Android\\Sdk\\ndk\\25.0.8221429
+```
 
 * `'shader_compiler/*.h' file not found`
 
